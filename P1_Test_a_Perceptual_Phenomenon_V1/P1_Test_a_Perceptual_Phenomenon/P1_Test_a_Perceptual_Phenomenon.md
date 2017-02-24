@@ -37,11 +37,14 @@ In psychology, the Stroop effect is a demonstration of interference in the react
 Hypothesis test
 
 H0(Null Hypothesis):  μC = μI
-Mean time to name colours is the same for congruent and incongruent tasks.
+
+-Mean time to name colours is the same for congruent and incongruent tasks.
 
 HA(Alternate Hypothesis):μC ≠ μI 
-Mean time to name colours is not the same for congruent and incongruent tasks.
-where μ is a population mean, the subscript "C" represents the congruent words condition, and the subscript "I" represents the incongruent words condition
+
+-Mean time to name colours is not the same for congruent and incongruent tasks.
+
+Where μ is a population mean, the subscript "C" represents the congruent words condition, and the subscript "I" represents the incongruent words condition
 
 We can use a two-sided paired student T-test to test the hypotesis due  we don´t know the population standard deviation, our sample is below 30 and also we are evaluating the difference between the means of μC and μI to know if the mean time of incongruent tasks vs congruent tasks are the same.
 #### 3. Report some descriptive statistics regarding this dataset. Include at least one measure of central tendency and at least one measure of variability.
